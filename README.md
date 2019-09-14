@@ -5,3 +5,5 @@ Boston is one of the oldest municipalities in the United States, founded on the 
 
 
 **The objective of this project is to locate and recommend which neighborhood of Boston will be best choice to start a Chinese restaurant and explain the rationale of the recommendations.**
+
+![boston](boston.jpg "Title")
